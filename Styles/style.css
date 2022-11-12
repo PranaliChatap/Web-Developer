@@ -229,219 +229,6 @@
 }
 
 
-@media screen and (min-width:769px) and  (max-width: 1024px) {
-    
-    .background-img{
-        width: 100vw;
-        background-size: cover;
-        height: 100vh;
-    
-    }
-
-   
-
-    .apps-tab{
-        position: relative;
-        bottom: 15%;
-        width: 40%;
-        opacity: 0.7;
-    }
-    
-    .container-2{
-        width: 100vw;
-        height: 50vh;
-
-    }
-
-    .box1{
-        width: 70vw;
-    }
-
-    .box1-container1, .box1-container2{
-        width: 100%;
-    }   
-    
-    .grid-container{
-        
-        position: relative;
-        top: 0%;
-        left: 25%;
-        
-    }
- 
-}
-
-
-@media screen and (min-width: 601px) and  (max-width: 768px) {
-
-    .background-img{
-        width: 100vw;
-        background-size: cover;
-        height: 100vh;
-    
-    }
-
-    .para{
-        width: 120%;
-    }
-
-    
-
-    .icons-img{
-        width: 30px;
-        margin: 6px 0px 6px 6px;
-        
-    }
-    .apps-tab{
-        padding: 3px 6px;
-        position: relative;
-        left: 50%;
-        bottom: 10%;
-        width: 30%;
-        opacity: 0.7;
-    }
-    
-    .container-2{
-        width: 100vw;
-        height: 50vh;
-    
-    }
-
-    .box1{
-        width: 80vw;
-    }
-
-    .box1-container1, .box1-container2{
-        width: 100%;
-    }  
-    
-    .container-3{
-        margin-top: 30%;
-
-    }
-
-    .grid-container{
-        
-        position: relative;
-        top: 0%;
-        left: 2%;
-         
-    }
-
-    
-}
-
-
-
-    @media screen and (max-width: 600px) {
-        
-        .background-img{
-            width: 100vw;
-            background-size: cover;
-            height: 100vh;
-        
-        }
-        
-        .nav-link{
-       
-            position: relative;
-            top: 20px;
-            right: 6px;
-            font-size: 16px;
-            font-weight: 500;
-            padding: 0 6px;
-        } 
-
-        .nav-btn{
-            border-radius: 20px;
-            color: white;
-            background-color: black;
-            margin-top: 20px;
-            padding: 4px 10px;
-            font-size: 13px;
-            
-        }
-
-        
-    .para{
-        width: 110%;
-        padding-left: 6px;
-    }
-
-    
-
-    .icons-img{
-
-        width: 30px;
-        margin: 6px 0px 6px 6px;
-        
-    }
-    .apps-tab{
-        padding: 3px 7px;
-        position: relative;
-        left: 60%;
-        bottom: 10%;
-        width: 40%;
-        opacity: 0.7;
-    }
-    
-    .container-2{
-        width: 100vw;
-        height: 50vh;
-        
-    
-    }
-
-    .box1{
-        width: 80vw;
-        
-    }
-
-
-    .box1-container1, .box1-container2{
-        width: 100%;
-
-    }  
-    
-    .container-3{
-        margin-top: 45%;
-
-    }
-
-    .container-3-para2{
-        width: 50%;
-        padding-bottom: 40px;
-    }
-
-    .container-3-video{
-        margin-top: 28px;
-         opacity: 0.8;
-         border-radius: 15px;
-         width:320px;
-        
-     }
-
-    .grid-container{
-        
-        position: relative;
-        left: -8%;
-         
-    }
-
-
-      }
-
-    
-
-
-
-
-
-
-
-
-
-
 .container-2{
     
     display: grid;
@@ -688,6 +475,208 @@
     right: 48%;
 
 }
+
+@media screen and (min-width:769px) and  (max-width: 1024px) {
+    
+    .background-img{
+        width: 100vw;
+        background-size: cover;
+        height: 100vh;
+    
+    }
+
+   
+
+    .apps-tab{
+        position: relative;
+        bottom: 15%;
+        width: 40%;
+        opacity: 0.7;
+    }
+    
+    .container-2{
+        width: 100vw;
+        height: 50vh;
+
+    }
+
+    .box1{
+        width: 70vw;
+    }
+
+    .box1-container1, .box1-container2{
+        width: 100%;
+    }   
+    
+    .grid-container{
+        
+        position: relative;
+        top: 0%;
+        left: 25%;
+        
+    }
+ 
+}
+
+
+@media screen and (min-width: 601px) and  (max-width: 768px) {
+
+    .background-img{
+        width: 100vw;
+        background-size: cover;
+        height: 100vh;
+    
+    }
+
+    .para{
+        width: 120%;
+    }
+
+    
+
+    .icons-img{
+        width: 30px;
+        margin: 6px 0px 6px 6px;
+        
+    }
+    .apps-tab{
+        padding: 3px 6px;
+        position: relative;
+        left: 50%;
+        bottom: 10%;
+        width: 30%;
+        opacity: 0.7;
+    }
+    
+    .container-2{
+        width: 100vw;
+        height: 50vh;
+    
+    }
+
+    .box1{
+        width: 80vw;
+    }
+
+    .box1-container1, .box1-container2{
+        width: 100%;
+    }  
+    
+    .container-3{
+        margin-top: 30%;
+
+    }
+
+    .grid-container{
+        
+        position: relative;
+        top: 0%;
+        left: 2%;
+         
+    }
+
+    
+}
+
+
+
+    @media screen and (max-width: 600px) {
+        
+        .background-img{
+            width: 100vw;
+            background-size: cover;
+            height: 100vh;
+        
+        }
+        
+        .nav-link{
+       
+            position: relative;
+            top: 20px;
+            right: 6px;
+            font-size: 16px;
+            font-weight: 500;
+            padding: 0 6px;
+        } 
+
+        .nav-btn{
+            border-radius: 20px;
+            color: white;
+            background-color: black;
+            margin-top: 20px;
+            padding: 4px 10px;
+            font-size: 13px;
+            
+        }
+
+        
+    .para{
+        width: 110%;
+        padding-left: 6px;
+    }
+
+    
+
+    .icons-img{
+
+        width: 30px;
+        margin: 6px 0px 6px 6px;
+        
+    }
+    .apps-tab{
+        padding: 3px 7px;
+        position: relative;
+        left: 60%;
+        bottom: 10%;
+        width: 40%;
+        opacity: 0.7;
+    }
+    
+    .container-2{
+        width: 100vw;
+        height: 50vh;
+        
+    
+    }
+
+    .box1{
+        width: 80vw;
+        
+    }
+
+
+    .box1-container1, .box1-container2{
+        width: 100%;
+
+    }  
+    
+    .container-3{
+        margin-top: 45%;
+
+    }
+
+    .container-3-para2{
+        width: 50%;
+        padding-bottom: 40px;
+    }
+
+    .container-3-video{
+        margin-top: 28px;
+         opacity: 0.8;
+         border-radius: 15px;
+         width:320px;
+        
+     }
+
+    .grid-container{
+        
+        position: relative;
+        left: -8%;
+         
+    }
+
+
+      }
 
 
 
